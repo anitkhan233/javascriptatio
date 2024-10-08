@@ -1,0 +1,29 @@
+:root{
+    --min_body_width: 1428px;
+    --min_body_height: 700px;
+}
+
+body{
+    height: var(--min_body_height);
+    width: var(--min_body_width);
+    margin: 0px;
+}
+
+#ball_container_div{
+    width: 500px;
+    height: 300px;
+    border: 20px groove gainsboro;
+    border-radius: 10px;
+    padding: 0px;
+}
+
+#ball{
+    background-color: red;
+    padding: 0px;
+    margin: 0px;
+    border-width: 0px;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
