@@ -1,6 +1,6 @@
 # Gamelet
 
-A starter program for writing JavaScript games.
+A program for writing JavaScript games.
 
 ## Usage
 1. Include gamelet.js in an HTML document containing a ball within a mini div container
@@ -17,3 +17,4 @@ A starter program for writing JavaScript games.
 </body>
 ```
 2. The script will detect when the Left, Right, Up, Down Arrow Keys are pressed and will move the ball element accordingly
+3. Javascript Animation has been added
