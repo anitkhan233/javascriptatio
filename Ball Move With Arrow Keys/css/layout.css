@@ -10,11 +10,12 @@ body{
 }
 
 #ball_container_div{
-    width: 500px;
-    height: 300px;
+    width: 1000px;
+    height: 600px;
     border: 20px groove gainsboro;
     border-radius: 10px;
     padding: 0px;
+    position: relative;
 }
 
 #ball{
@@ -25,5 +26,5 @@ body{
     border-radius: 50px;
     width: 100px;
     height: 100px;
-    position: relative;
+    position: absolute;
 }
