@@ -18,3 +18,4 @@ A program for writing JavaScript games.
 ```
 2. The script will detect when the Left, Right, Up, Down Arrow Keys are pressed and will move the ball element accordingly
 3. Javascript Animation has been added
+4. A video of running the program has been added
